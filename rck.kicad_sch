@@ -6198,7 +6198,7 @@
 		)
 		(uuid "fbcc0fb1-71e9-4292-ac50-47334c87efb4")
 	)
-	(label "VCC"
+	(label "+5V"
 		(at 215.9 88.9 0)
 		(fields_autoplaced yes)
 		(effects
