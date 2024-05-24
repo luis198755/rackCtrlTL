@@ -3,4 +3,5 @@
   (lib (name "rackCtrlTL")(type "KiCad")(uri "/home/luisalberto/Documentos/Proyectos/ControlTL/DiseñoControlSemaforico/rackCtrlTL.pretty")(options "")(descr ""))
   (lib (name "Conector")(type "KiCad")(uri "${KIPRJMOD}/Conector.pretty")(options "")(descr ""))
   (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Conector.pretty/Library.pretty")(options "")(descr ""))
+  (lib (name "SSD1306")(type "KiCad")(uri "${KIPRJMOD}/KiCad-SSD1306-128x64/library/SSD1306.pretty")(options "")(descr ""))
 )

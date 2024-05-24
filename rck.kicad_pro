@@ -428,7 +428,9 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "Fuse"
+    ],
     "pinned_symbol_libs": []
   },
   "meta": {
