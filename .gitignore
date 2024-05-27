@@ -1,1 +1,6 @@
 rck-backups/
+# Ignorar todos los archivos con extensión .zip
+*.zip
+
+gerber/*.gbr
+gerber/*.drl
