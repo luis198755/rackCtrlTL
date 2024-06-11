@@ -3145,13 +3145,13 @@
 		)
 	)
 	(junction
-		(at 60.96 127)
+		(at 60.96 134.62)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0edfb2b9-5525-4b76-af5a-db6078406be7")
 	)
 	(junction
-		(at 48.26 127)
+		(at 48.26 134.62)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "16dfc12f-380c-49e5-a801-97280c570c83")
@@ -3169,7 +3169,7 @@
 		(uuid "2ac04c84-c5b2-4e76-a428-13ced2f829e7")
 	)
 	(junction
-		(at 68.58 165.1)
+		(at 68.58 172.72)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2ff3b254-a318-4cf4-a0aa-e5c2641caf33")
@@ -3241,7 +3241,7 @@
 		(uuid "70f274a2-95e8-4e1d-a199-af639014cc36")
 	)
 	(junction
-		(at 68.58 127)
+		(at 68.58 134.62)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7bea113a-ffae-4997-be4d-b00274bbeb64")
@@ -3283,7 +3283,7 @@
 		(uuid "a438b8a3-2575-4c55-b683-e6e6c9597d26")
 	)
 	(junction
-		(at 76.835 127)
+		(at 76.835 134.62)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a693bc24-a7ef-43b0-934a-94cb975a300b")
@@ -3295,13 +3295,13 @@
 		(uuid "a76a82ae-ac57-4755-ac1a-d22025c1ac54")
 	)
 	(junction
-		(at 75.565 165.1)
+		(at 75.565 172.72)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b17fc7e8-a681-4f4a-9b70-def4afcf3e43")
 	)
 	(junction
-		(at 105.41 165.1)
+		(at 105.41 172.72)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b41b9d3f-6067-419e-bdeb-c24cad915821")
@@ -3319,13 +3319,13 @@
 		(uuid "bcddd1e7-ba62-4259-83f4-22bc74beae8b")
 	)
 	(junction
-		(at 105.41 127)
+		(at 105.41 134.62)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "be3a8e5e-7a68-4eaa-a897-fdab9d29013c")
 	)
 	(junction
-		(at 116.84 165.1)
+		(at 116.84 172.72)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c8766baf-db4a-4d94-8fda-59da879538ff")
@@ -3343,7 +3343,7 @@
 		(uuid "d7920bf2-8486-483f-ba5a-9e6c089d0b11")
 	)
 	(junction
-		(at 116.84 127)
+		(at 116.84 134.62)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dc3d952c-7d3f-42e3-be52-2760f8a00681")
@@ -3490,7 +3490,7 @@
 	)
 	(wire
 		(pts
-			(xy 75.565 165.1) (xy 78.74 165.1)
+			(xy 75.565 172.72) (xy 78.74 172.72)
 		)
 		(stroke
 			(width 0.254)
@@ -3500,7 +3500,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 121.92) (xy 116.84 127)
+			(xy 116.84 129.54) (xy 116.84 134.62)
 		)
 		(stroke
 			(width 0)
@@ -3570,7 +3570,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 165.1) (xy 68.58 165.1)
+			(xy 60.96 172.72) (xy 68.58 172.72)
 		)
 		(stroke
 			(width 0.254)
@@ -3620,7 +3620,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.835 135.255) (xy 76.835 137.3378)
+			(xy 76.835 142.875) (xy 76.835 144.9578)
 		)
 		(stroke
 			(width 0)
@@ -3680,7 +3680,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 127) (xy 116.84 127)
+			(xy 105.41 134.62) (xy 116.84 134.62)
 		)
 		(stroke
 			(width 0)
@@ -3820,7 +3820,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 162.56) (xy 116.84 165.1)
+			(xy 116.84 170.18) (xy 116.84 172.72)
 		)
 		(stroke
 			(width 0)
@@ -3840,7 +3840,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 136.3472) (xy 116.84 138.43)
+			(xy 116.84 143.9672) (xy 116.84 146.05)
 		)
 		(stroke
 			(width 0)
@@ -3890,7 +3890,7 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 111.76) (xy 198.12 111.76)
+			(xy 180.34 127) (xy 185.42 127)
 		)
 		(stroke
 			(width 0)
@@ -3960,7 +3960,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 127) (xy 76.835 127)
+			(xy 68.58 134.62) (xy 76.835 134.62)
 		)
 		(stroke
 			(width 0.254)
@@ -4000,7 +4000,7 @@
 	)
 	(wire
 		(pts
-			(xy 75.565 165.1) (xy 75.565 165.735)
+			(xy 75.565 172.72) (xy 75.565 173.355)
 		)
 		(stroke
 			(width 0)
@@ -4040,7 +4040,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 174.4472) (xy 116.84 176.53)
+			(xy 116.84 182.0672) (xy 116.84 184.15)
 		)
 		(stroke
 			(width 0)
@@ -4070,7 +4070,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 127) (xy 105.41 129.54)
+			(xy 105.41 134.62) (xy 105.41 137.16)
 		)
 		(stroke
 			(width 0)
@@ -4080,7 +4080,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 165.1) (xy 116.84 166.8272)
+			(xy 116.84 172.72) (xy 116.84 174.4472)
 		)
 		(stroke
 			(width 0)
@@ -4090,7 +4090,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 154.94) (xy 116.84 157.48)
+			(xy 116.84 162.56) (xy 116.84 165.1)
 		)
 		(stroke
 			(width 0)
@@ -4130,7 +4130,7 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 114.3) (xy 198.12 114.3)
+			(xy 180.34 129.54) (xy 185.42 129.54)
 		)
 		(stroke
 			(width 0)
@@ -4160,7 +4160,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 129.54) (xy 55.88 129.54)
+			(xy 40.64 137.16) (xy 55.88 137.16)
 		)
 		(stroke
 			(width 0)
@@ -4180,7 +4180,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.835 127) (xy 78.74 127)
+			(xy 76.835 134.62) (xy 78.74 134.62)
 		)
 		(stroke
 			(width 0.254)
@@ -4210,7 +4210,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 127) (xy 48.26 127)
+			(xy 40.64 134.62) (xy 48.26 134.62)
 		)
 		(stroke
 			(width 0)
@@ -4220,7 +4220,7 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 106.68) (xy 198.12 106.68)
+			(xy 180.34 121.92) (xy 185.42 121.92)
 		)
 		(stroke
 			(width 0)
@@ -4240,7 +4240,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 137.16) (xy 105.41 139.7)
+			(xy 105.41 144.78) (xy 105.41 147.32)
 		)
 		(stroke
 			(width 0)
@@ -4280,7 +4280,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 127) (xy 68.58 127)
+			(xy 60.96 134.62) (xy 68.58 134.62)
 		)
 		(stroke
 			(width 0.254)
@@ -4360,7 +4360,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 175.26) (xy 105.41 177.8)
+			(xy 105.41 182.88) (xy 105.41 185.42)
 		)
 		(stroke
 			(width 0)
@@ -4390,7 +4390,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 127) (xy 60.96 127)
+			(xy 58.42 134.62) (xy 60.96 134.62)
 		)
 		(stroke
 			(width 0)
@@ -4450,7 +4450,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 165.1) (xy 104.14 165.1)
+			(xy 105.41 172.72) (xy 104.14 172.72)
 		)
 		(stroke
 			(width 0)
@@ -4570,7 +4570,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 127) (xy 104.14 127)
+			(xy 105.41 134.62) (xy 104.14 134.62)
 		)
 		(stroke
 			(width 0)
@@ -4610,7 +4610,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 165.1) (xy 105.41 167.64)
+			(xy 105.41 172.72) (xy 105.41 175.26)
 		)
 		(stroke
 			(width 0)
@@ -4710,7 +4710,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 165.1) (xy 75.565 165.1)
+			(xy 68.58 172.72) (xy 75.565 172.72)
 		)
 		(stroke
 			(width 0.254)
@@ -4760,7 +4760,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 111.76) (xy 116.84 116.84)
+			(xy 116.84 119.38) (xy 116.84 124.46)
 		)
 		(stroke
 			(width 0)
@@ -4770,7 +4770,7 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 109.22) (xy 198.12 109.22)
+			(xy 180.34 124.46) (xy 185.42 124.46)
 		)
 		(stroke
 			(width 0)
@@ -4820,7 +4820,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 116.84) (xy 48.26 127)
+			(xy 48.26 124.46) (xy 48.26 134.62)
 		)
 		(stroke
 			(width 0)
@@ -5060,7 +5060,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 165.1) (xy 116.84 165.1)
+			(xy 105.41 172.72) (xy 116.84 172.72)
 		)
 		(stroke
 			(width 0)
@@ -5160,7 +5160,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 129.54) (xy 55.88 132.08)
+			(xy 55.88 137.16) (xy 55.88 139.7)
 		)
 		(stroke
 			(width 0)
@@ -5180,7 +5180,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 127) (xy 116.84 128.7272)
+			(xy 116.84 134.62) (xy 116.84 136.3472)
 		)
 		(stroke
 			(width 0)
@@ -5210,7 +5210,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 127) (xy 53.34 127)
+			(xy 48.26 134.62) (xy 53.34 134.62)
 		)
 		(stroke
 			(width 0)
@@ -5230,7 +5230,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.835 127) (xy 76.835 127.635)
+			(xy 76.835 134.62) (xy 76.835 135.255)
 		)
 		(stroke
 			(width 0)
@@ -5270,7 +5270,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 127) (xy 60.96 165.1)
+			(xy 60.96 134.62) (xy 60.96 172.72)
 		)
 		(stroke
 			(width 0.254)
@@ -5350,7 +5350,7 @@
 	)
 	(wire
 		(pts
-			(xy 75.565 173.355) (xy 75.565 174.625)
+			(xy 75.565 180.975) (xy 75.565 182.245)
 		)
 		(stroke
 			(width 0)
@@ -5367,6 +5367,28 @@
 			(type default)
 		)
 		(uuid "ff8ec54a-7ff8-4d7b-942b-692c8bdd2eea")
+	)
+	(rectangle
+		(start 17.78 104.14)
+		(end 162.56 195.58)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 1f31026f-ea43-4f26-9c04-0d35237ec8f5)
+	)
+	(text "Modulo de Potencia"
+		(exclude_from_sim no)
+		(at 73.66 111.76 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "d9051791-5b34-4067-a5e7-0ae2ff4dac76")
 	)
 	(label "F5-02"
 		(at 215.9 53.34 0)
@@ -5831,7 +5853,7 @@
 		(uuid "5b2d9cbc-e9fa-4499-9493-f6bf3387901a")
 	)
 	(label "3V"
-		(at 193.04 111.76 180)
+		(at 180.34 127 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5853,7 +5875,7 @@
 		(uuid "5d98a3f7-e415-424c-8022-f6d697fb8635")
 	)
 	(label "SCL"
-		(at 193.04 109.22 180)
+		(at 180.34 124.46 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6007,7 +6029,7 @@
 		(uuid "866834b3-1d57-4755-83e3-e7d3754d0f10")
 	)
 	(label "GND"
-		(at 193.04 114.3 180)
+		(at 180.34 129.54 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6095,7 +6117,7 @@
 		(uuid "a8e2370f-123b-4c12-9f2c-71923ac07b77")
 	)
 	(label "SDA"
-		(at 193.04 106.68 180)
+		(at 180.34 121.92 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6648,7 +6670,7 @@
 	)
 	(symbol
 		(lib_id "Device:Fuse_Small")
-		(at 55.88 127 180)
+		(at 55.88 134.62 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6656,7 +6678,7 @@
 		(dnp no)
 		(uuid "09c9fe0f-5a94-4982-9287-5d7d687a5041")
 		(property "Reference" "F1"
-			(at 55.88 121.92 0)
+			(at 55.88 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6664,7 +6686,7 @@
 			)
 		)
 		(property "Value" "SMD0805-020-16V - 2.8A"
-			(at 66.04 119.38 0)
+			(at 66.04 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6672,7 +6694,7 @@
 			)
 		)
 		(property "Footprint" "Fuse:Fuse_0805_2012Metric"
-			(at 55.88 127 0)
+			(at 55.88 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6681,7 +6703,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 55.88 127 0)
+			(at 55.88 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6690,7 +6712,7 @@
 			)
 		)
 		(property "Description" "Fuse, small symbol"
-			(at 55.88 127 0)
+			(at 55.88 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6916,7 +6938,7 @@
 	)
 	(symbol
 		(lib_id "SSD1306-128x64_OLED:SSD1306")
-		(at 208.28 109.22 90)
+		(at 195.58 124.46 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6925,7 +6947,7 @@
 		(fields_autoplaced yes)
 		(uuid "0dde0726-3ecf-438e-b462-1a76d2c9fc50")
 		(property "Reference" "Brd1"
-			(at 215.9 107.9499 90)
+			(at 203.2 123.1899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6934,7 +6956,7 @@
 			)
 		)
 		(property "Value" "SSD1306"
-			(at 215.9 110.4899 90)
+			(at 203.2 125.7299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6943,7 +6965,7 @@
 			)
 		)
 		(property "Footprint" "SSD1306:128x64OLED"
-			(at 201.93 109.22 0)
+			(at 189.23 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6952,7 +6974,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 201.93 109.22 0)
+			(at 189.23 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6961,7 +6983,7 @@
 			)
 		)
 		(property "Description" "SSD1306"
-			(at 208.28 111.76 0)
+			(at 195.58 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7126,7 +7148,7 @@
 	)
 	(symbol
 		(lib_id "controlSemaforico-altium-import:root_3_Cap Pol1")
-		(at 71.12 129.54 0)
+		(at 71.12 137.16 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7134,7 +7156,7 @@
 		(dnp no)
 		(uuid "1feb1f79-7ecc-4012-b594-a340f5465a63")
 		(property "Reference" "C1"
-			(at 70.866 130.048 0)
+			(at 70.866 137.668 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7143,7 +7165,7 @@
 			)
 		)
 		(property "Value" "Cap Pol1"
-			(at 66.04 124.46 0)
+			(at 66.04 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7152,7 +7174,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:CP_Elec_5x5.9"
-			(at 71.12 129.54 0)
+			(at 71.12 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7161,7 +7183,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 71.12 129.54 0)
+			(at 71.12 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7170,7 +7192,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 71.12 129.54 0)
+			(at 71.12 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7179,7 +7201,7 @@
 			)
 		)
 		(property "PUBLISHED" "8-Jun-2000"
-			(at 66.294 126.492 0)
+			(at 66.294 134.112 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7189,7 +7211,7 @@
 			)
 		)
 		(property "LATESTREVISIONDATE" "17-Jul-2002"
-			(at 66.294 126.492 0)
+			(at 66.294 134.112 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7199,7 +7221,7 @@
 			)
 		)
 		(property "LATESTREVISIONNOTE" "Re-released for DXP Platform."
-			(at 66.294 126.492 0)
+			(at 66.294 134.112 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7209,7 +7231,7 @@
 			)
 		)
 		(property "PACKAGEREFERENCE" "RB7.6-15"
-			(at 66.294 126.492 0)
+			(at 66.294 134.112 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7219,7 +7241,7 @@
 			)
 		)
 		(property "PUBLISHER" "Altium Limited"
-			(at 66.294 126.492 0)
+			(at 66.294 134.112 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7229,7 +7251,7 @@
 			)
 		)
 		(property "PACKAGEDESCRIPTION" "Polarized Capacitor (Radial); 2 Leads"
-			(at 66.294 126.492 0)
+			(at 66.294 134.112 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7239,7 +7261,7 @@
 			)
 		)
 		(property "ALTIUM_VALUE" "220uf"
-			(at 67.31 133.35 0)
+			(at 67.31 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7398,7 +7420,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 105.41 177.8 0)
+		(at 105.41 185.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7407,7 +7429,7 @@
 		(fields_autoplaced yes)
 		(uuid "2aee0e79-e235-4617-ad6f-b3f29d9b5fd5")
 		(property "Reference" "#PWR020"
-			(at 105.41 184.15 0)
+			(at 105.41 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7416,7 +7438,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 105.41 182.88 0)
+			(at 105.41 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7424,7 +7446,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 105.41 177.8 0)
+			(at 105.41 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7433,7 +7455,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 105.41 177.8 0)
+			(at 105.41 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7442,7 +7464,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 105.41 177.8 0)
+			(at 105.41 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7985,7 +8007,7 @@
 	)
 	(symbol
 		(lib_id "controlSemaforico-altium-import:root_3_Cap Pol1")
-		(at 107.95 170.18 0)
+		(at 107.95 177.8 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7993,7 +8015,7 @@
 		(dnp no)
 		(uuid "32454def-f0d0-498d-b79a-84a2e3062e2d")
 		(property "Reference" "C7"
-			(at 107.696 170.688 0)
+			(at 107.696 178.308 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8002,7 +8024,7 @@
 			)
 		)
 		(property "Value" "Cap Pol1"
-			(at 102.87 163.83 0)
+			(at 102.87 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8011,7 +8033,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:CP_Elec_5x5.9"
-			(at 107.95 170.18 0)
+			(at 107.95 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8020,7 +8042,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 107.95 170.18 0)
+			(at 107.95 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8029,7 +8051,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 107.95 170.18 0)
+			(at 107.95 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8038,7 +8060,7 @@
 			)
 		)
 		(property "PUBLISHED" "8-Jun-2000"
-			(at 103.124 167.132 0)
+			(at 103.124 174.752 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8048,7 +8070,7 @@
 			)
 		)
 		(property "LATESTREVISIONDATE" "17-Jul-2002"
-			(at 103.124 167.132 0)
+			(at 103.124 174.752 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8058,7 +8080,7 @@
 			)
 		)
 		(property "LATESTREVISIONNOTE" "Re-released for DXP Platform."
-			(at 103.124 167.132 0)
+			(at 103.124 174.752 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8068,7 +8090,7 @@
 			)
 		)
 		(property "PACKAGEREFERENCE" "RB7.6-15"
-			(at 103.124 167.132 0)
+			(at 103.124 174.752 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8078,7 +8100,7 @@
 			)
 		)
 		(property "PUBLISHER" "Altium Limited"
-			(at 103.124 167.132 0)
+			(at 103.124 174.752 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8088,7 +8110,7 @@
 			)
 		)
 		(property "PACKAGEDESCRIPTION" "Polarized Capacitor (Radial); 2 Leads"
-			(at 103.124 167.132 0)
+			(at 103.124 174.752 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8098,7 +8120,7 @@
 			)
 		)
 		(property "ALTIUM_VALUE" "220uf"
-			(at 102.87 167.64 0)
+			(at 102.87 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8123,7 +8145,7 @@
 	)
 	(symbol
 		(lib_id "power:+12V")
-		(at 48.26 116.84 0)
+		(at 48.26 124.46 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8132,7 +8154,7 @@
 		(fields_autoplaced yes)
 		(uuid "34f338d8-7d3e-460b-b15d-360ece52c35f")
 		(property "Reference" "#PWR015"
-			(at 48.26 120.65 0)
+			(at 48.26 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8141,7 +8163,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 48.26 111.76 0)
+			(at 48.26 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8149,7 +8171,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 48.26 116.84 0)
+			(at 48.26 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8158,7 +8180,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 48.26 116.84 0)
+			(at 48.26 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8167,7 +8189,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 48.26 116.84 0)
+			(at 48.26 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8189,7 +8211,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 105.41 139.7 0)
+		(at 105.41 147.32 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8198,7 +8220,7 @@
 		(fields_autoplaced yes)
 		(uuid "3537469a-6b53-48d7-821c-8c089c33be57")
 		(property "Reference" "#PWR014"
-			(at 105.41 146.05 0)
+			(at 105.41 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8207,7 +8229,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 105.41 144.78 0)
+			(at 105.41 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8215,7 +8237,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 105.41 139.7 0)
+			(at 105.41 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8224,7 +8246,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 105.41 139.7 0)
+			(at 105.41 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8233,7 +8255,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 105.41 139.7 0)
+			(at 105.41 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8389,7 +8411,7 @@
 	)
 	(symbol
 		(lib_id "Device:Fuse_Small")
-		(at 116.84 160.02 90)
+		(at 116.84 167.64 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8398,7 +8420,7 @@
 		(fields_autoplaced yes)
 		(uuid "4c8d44e5-d544-44af-80ec-0c06edbfb695")
 		(property "Reference" "F3"
-			(at 118.11 158.7499 90)
+			(at 118.11 166.3699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8407,7 +8429,7 @@
 			)
 		)
 		(property "Value" "SMD0603-050 - 1A"
-			(at 118.11 161.2899 90)
+			(at 118.11 168.9099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8416,7 +8438,7 @@
 			)
 		)
 		(property "Footprint" "Fuse:Fuse_0603_1608Metric"
-			(at 116.84 160.02 0)
+			(at 116.84 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8425,7 +8447,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 116.84 160.02 0)
+			(at 116.84 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8434,7 +8456,7 @@
 			)
 		)
 		(property "Description" "Fuse, small symbol"
-			(at 116.84 160.02 0)
+			(at 116.84 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8593,7 +8615,7 @@
 	)
 	(symbol
 		(lib_id "controlSemaforico-altium-import:GND")
-		(at 116.84 138.43 0)
+		(at 116.84 146.05 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8601,7 +8623,7 @@
 		(dnp no)
 		(uuid "5639fd79-d998-45ab-84ad-4ed9de578024")
 		(property "Reference" "#PWR013"
-			(at 116.84 138.43 0)
+			(at 116.84 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8610,7 +8632,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 116.84 144.78 0)
+			(at 116.84 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8618,7 +8640,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 116.84 138.43 0)
+			(at 116.84 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8627,7 +8649,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 116.84 138.43 0)
+			(at 116.84 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8636,7 +8658,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 116.84 138.43 0)
+			(at 116.84 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8658,7 +8680,7 @@
 	)
 	(symbol
 		(lib_id "controlSemaforico-altium-import:GND")
-		(at 75.565 174.625 0)
+		(at 75.565 182.245 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8666,7 +8688,7 @@
 		(dnp no)
 		(uuid "5fd067f2-e06a-4766-b18e-640166691e40")
 		(property "Reference" "#PWR06"
-			(at 75.565 174.625 0)
+			(at 75.565 182.245 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8675,7 +8697,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 75.565 180.975 0)
+			(at 75.565 188.595 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8683,7 +8705,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 75.565 174.625 0)
+			(at 75.565 182.245 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8692,7 +8714,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 75.565 174.625 0)
+			(at 75.565 182.245 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8701,7 +8723,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 75.565 174.625 0)
+			(at 75.565 182.245 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9058,7 +9080,7 @@
 	)
 	(symbol
 		(lib_id "controlSemaforico-altium-import:root_3_Cap Pol1")
-		(at 71.12 167.64 0)
+		(at 71.12 175.26 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9066,7 +9088,7 @@
 		(dnp no)
 		(uuid "6a36e1a0-5e68-4bbb-ae9b-efd3fe26ee07")
 		(property "Reference" "C5"
-			(at 70.866 168.148 0)
+			(at 70.866 175.768 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9075,7 +9097,7 @@
 			)
 		)
 		(property "Value" "Cap Pol1"
-			(at 66.04 162.56 0)
+			(at 66.04 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9084,7 +9106,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:CP_Elec_5x5.9"
-			(at 71.12 167.64 0)
+			(at 71.12 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9093,7 +9115,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 71.12 167.64 0)
+			(at 71.12 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9102,7 +9124,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 71.12 167.64 0)
+			(at 71.12 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9111,7 +9133,7 @@
 			)
 		)
 		(property "PUBLISHED" "8-Jun-2000"
-			(at 66.294 164.592 0)
+			(at 66.294 172.212 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9121,7 +9143,7 @@
 			)
 		)
 		(property "LATESTREVISIONDATE" "17-Jul-2002"
-			(at 66.294 164.592 0)
+			(at 66.294 172.212 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9131,7 +9153,7 @@
 			)
 		)
 		(property "LATESTREVISIONNOTE" "Re-released for DXP Platform."
-			(at 66.294 164.592 0)
+			(at 66.294 172.212 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9141,7 +9163,7 @@
 			)
 		)
 		(property "PACKAGEREFERENCE" "RB7.6-15"
-			(at 66.294 164.592 0)
+			(at 66.294 172.212 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9151,7 +9173,7 @@
 			)
 		)
 		(property "PUBLISHER" "Altium Limited"
-			(at 66.294 164.592 0)
+			(at 66.294 172.212 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9161,7 +9183,7 @@
 			)
 		)
 		(property "PACKAGEDESCRIPTION" "Polarized Capacitor (Radial); 2 Leads"
-			(at 66.294 164.592 0)
+			(at 66.294 172.212 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9171,7 +9193,7 @@
 			)
 		)
 		(property "ALTIUM_VALUE" "220uf"
-			(at 67.31 171.45 0)
+			(at 67.31 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9457,7 +9479,7 @@
 	)
 	(symbol
 		(lib_id "controlSemaforico-altium-import:GND")
-		(at 116.84 176.53 0)
+		(at 116.84 184.15 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9465,7 +9487,7 @@
 		(dnp no)
 		(uuid "728f5960-4649-4707-b8da-81278b2e7697")
 		(property "Reference" "#PWR019"
-			(at 116.84 176.53 0)
+			(at 116.84 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9474,7 +9496,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 116.84 182.88 0)
+			(at 116.84 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9482,7 +9504,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 116.84 176.53 0)
+			(at 116.84 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9491,7 +9513,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 116.84 176.53 0)
+			(at 116.84 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9500,7 +9522,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 116.84 176.53 0)
+			(at 116.84 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9850,7 +9872,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 55.88 132.08 0)
+		(at 55.88 139.7 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9859,7 +9881,7 @@
 		(fields_autoplaced yes)
 		(uuid "7bc10f6f-2270-49b9-b575-a465b6e777f7")
 		(property "Reference" "#PWR07"
-			(at 55.88 138.43 0)
+			(at 55.88 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9868,7 +9890,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 55.88 137.16 0)
+			(at 55.88 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9876,7 +9898,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 55.88 132.08 0)
+			(at 55.88 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9885,7 +9907,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 55.88 132.08 0)
+			(at 55.88 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9894,7 +9916,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 55.88 132.08 0)
+			(at 55.88 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9916,7 +9938,7 @@
 	)
 	(symbol
 		(lib_id "controlSemaforico-altium-import:root_3_Cap Pol1")
-		(at 107.95 132.08 0)
+		(at 107.95 139.7 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9924,7 +9946,7 @@
 		(dnp no)
 		(uuid "7ecf2395-d52a-4249-92c8-dc8696fd9b0c")
 		(property "Reference" "C3"
-			(at 107.696 132.588 0)
+			(at 107.696 140.208 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9933,7 +9955,7 @@
 			)
 		)
 		(property "Value" "Cap Pol1"
-			(at 102.87 125.73 0)
+			(at 102.87 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9942,7 +9964,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:CP_Elec_5x5.9"
-			(at 107.95 132.08 0)
+			(at 107.95 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9951,7 +9973,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 107.95 132.08 0)
+			(at 107.95 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9960,7 +9982,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 107.95 132.08 0)
+			(at 107.95 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9969,7 +9991,7 @@
 			)
 		)
 		(property "PUBLISHED" "8-Jun-2000"
-			(at 103.124 129.032 0)
+			(at 103.124 136.652 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9979,7 +10001,7 @@
 			)
 		)
 		(property "LATESTREVISIONDATE" "17-Jul-2002"
-			(at 103.124 129.032 0)
+			(at 103.124 136.652 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9989,7 +10011,7 @@
 			)
 		)
 		(property "LATESTREVISIONNOTE" "Re-released for DXP Platform."
-			(at 103.124 129.032 0)
+			(at 103.124 136.652 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9999,7 +10021,7 @@
 			)
 		)
 		(property "PACKAGEREFERENCE" "RB7.6-15"
-			(at 103.124 129.032 0)
+			(at 103.124 136.652 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10009,7 +10031,7 @@
 			)
 		)
 		(property "PUBLISHER" "Altium Limited"
-			(at 103.124 129.032 0)
+			(at 103.124 136.652 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10019,7 +10041,7 @@
 			)
 		)
 		(property "PACKAGEDESCRIPTION" "Polarized Capacitor (Radial); 2 Leads"
-			(at 103.124 129.032 0)
+			(at 103.124 136.652 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10029,7 +10051,7 @@
 			)
 		)
 		(property "ALTIUM_VALUE" "220uf"
-			(at 102.87 129.54 0)
+			(at 102.87 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10054,7 +10076,7 @@
 	)
 	(symbol
 		(lib_id "controlSemaforico-altium-import:GND")
-		(at 68.58 134.62 0)
+		(at 68.58 142.24 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10062,7 +10084,7 @@
 		(dnp no)
 		(uuid "7fc9ee48-fbb1-40af-9692-bb895b816c71")
 		(property "Reference" "#PWR010"
-			(at 68.58 134.62 0)
+			(at 68.58 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10071,7 +10093,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 68.58 140.97 0)
+			(at 68.58 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10079,7 +10101,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 68.58 134.62 0)
+			(at 68.58 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10088,7 +10110,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 68.58 134.62 0)
+			(at 68.58 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10097,7 +10119,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 68.58 134.62 0)
+			(at 68.58 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10119,7 +10141,7 @@
 	)
 	(symbol
 		(lib_id "controlSemaforico-altium-import:root_1_Cap")
-		(at 114.3 133.8072 0)
+		(at 114.3 141.4272 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10127,7 +10149,7 @@
 		(dnp no)
 		(uuid "83f448a3-e083-44d5-91f4-691dba84661e")
 		(property "Reference" "C4"
-			(at 119.126 133.5532 0)
+			(at 119.126 141.1732 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10136,7 +10158,7 @@
 			)
 		)
 		(property "Value" "Cap"
-			(at 119.126 136.0932 0)
+			(at 119.126 143.7132 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10145,7 +10167,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
-			(at 121.92 129.54 0)
+			(at 121.92 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10154,7 +10176,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 114.3 133.8072 0)
+			(at 114.3 141.4272 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10163,7 +10185,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 114.3 133.8072 0)
+			(at 114.3 141.4272 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10172,7 +10194,7 @@
 			)
 		)
 		(property "PUBLISHED" "8-Jun-2000"
-			(at 114.554 128.2192 0)
+			(at 114.554 135.8392 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10182,7 +10204,7 @@
 			)
 		)
 		(property "LATESTREVISIONDATE" "17-Jul-2002"
-			(at 114.554 128.2192 0)
+			(at 114.554 135.8392 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10192,7 +10214,7 @@
 			)
 		)
 		(property "LATESTREVISIONNOTE" "Re-released for DXP Platform."
-			(at 114.554 128.2192 0)
+			(at 114.554 135.8392 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10202,7 +10224,7 @@
 			)
 		)
 		(property "PACKAGEREFERENCE" "RAD-0.3"
-			(at 114.554 128.2192 0)
+			(at 114.554 135.8392 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10212,7 +10234,7 @@
 			)
 		)
 		(property "PUBLISHER" "Altium Limited"
-			(at 114.554 128.2192 0)
+			(at 114.554 135.8392 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10222,7 +10244,7 @@
 			)
 		)
 		(property "PACKAGEDESCRIPTION" "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"
-			(at 114.554 128.2192 0)
+			(at 114.554 135.8392 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10232,7 +10254,7 @@
 			)
 		)
 		(property "ALTIUM_VALUE" "0.1uf"
-			(at 119.126 138.6332 0)
+			(at 119.126 146.2532 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10257,7 +10279,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 116.84 111.76 0)
+		(at 116.84 119.38 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10266,7 +10288,7 @@
 		(fields_autoplaced yes)
 		(uuid "8b6b6b4f-41ed-4eb4-8432-cb257959ca38")
 		(property "Reference" "#PWR09"
-			(at 116.84 115.57 0)
+			(at 116.84 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10275,7 +10297,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 116.84 106.68 0)
+			(at 116.84 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10283,7 +10305,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 116.84 111.76 0)
+			(at 116.84 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10292,7 +10314,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 116.84 111.76 0)
+			(at 116.84 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10301,7 +10323,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 116.84 111.76 0)
+			(at 116.84 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10390,7 +10412,7 @@
 	)
 	(symbol
 		(lib_id "Device:Fuse_Small")
-		(at 116.84 119.38 90)
+		(at 116.84 127 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10399,7 +10421,7 @@
 		(fields_autoplaced yes)
 		(uuid "8de1cf1c-c8e8-4cd9-a68d-342238e593fc")
 		(property "Reference" "F2"
-			(at 118.11 118.1099 90)
+			(at 118.11 125.7299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10408,7 +10430,7 @@
 			)
 		)
 		(property "Value" "SMD0805-020-16V - 500mA"
-			(at 118.11 120.6499 90)
+			(at 118.11 128.2699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10417,7 +10439,7 @@
 			)
 		)
 		(property "Footprint" "Fuse:Fuse_0805_2012Metric"
-			(at 116.84 119.38 0)
+			(at 116.84 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10426,7 +10448,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 116.84 119.38 0)
+			(at 116.84 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10435,7 +10457,7 @@
 			)
 		)
 		(property "Description" "Fuse, small symbol"
-			(at 116.84 119.38 0)
+			(at 116.84 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10460,7 +10482,7 @@
 	)
 	(symbol
 		(lib_id "controlSemaforico-altium-import:GND")
-		(at 91.44 175.26 0)
+		(at 91.44 182.88 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10468,7 +10490,7 @@
 		(dnp no)
 		(uuid "9134dafc-2bb0-4b19-a248-28b90364ed1b")
 		(property "Reference" "#PWR018"
-			(at 91.44 175.26 0)
+			(at 91.44 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10477,7 +10499,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 91.44 181.61 0)
+			(at 91.44 189.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10485,7 +10507,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 91.44 175.26 0)
+			(at 91.44 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10494,7 +10516,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 91.44 175.26 0)
+			(at 91.44 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10503,7 +10525,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 91.44 175.26 0)
+			(at 91.44 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11061,7 +11083,7 @@
 	)
 	(symbol
 		(lib_id "controlSemaforico-altium-import:root_1_Cap")
-		(at 74.295 132.715 0)
+		(at 74.295 140.335 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11069,7 +11091,7 @@
 		(dnp no)
 		(uuid "9b54ccbe-6f6e-42fb-8017-bcda5c5520b2")
 		(property "Reference" "C2"
-			(at 79.121 132.461 0)
+			(at 79.121 140.081 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11078,7 +11100,7 @@
 			)
 		)
 		(property "Value" "Cap"
-			(at 79.121 135.001 0)
+			(at 79.121 142.621 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11087,7 +11109,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
-			(at 81.915 128.4478 0)
+			(at 81.915 136.0678 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11096,7 +11118,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 74.295 132.715 0)
+			(at 74.295 140.335 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11105,7 +11127,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 74.295 132.715 0)
+			(at 74.295 140.335 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11114,7 +11136,7 @@
 			)
 		)
 		(property "PUBLISHED" "8-Jun-2000"
-			(at 74.549 127.127 0)
+			(at 74.549 134.747 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11124,7 +11146,7 @@
 			)
 		)
 		(property "LATESTREVISIONDATE" "17-Jul-2002"
-			(at 74.549 127.127 0)
+			(at 74.549 134.747 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11134,7 +11156,7 @@
 			)
 		)
 		(property "LATESTREVISIONNOTE" "Re-released for DXP Platform."
-			(at 74.549 127.127 0)
+			(at 74.549 134.747 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11144,7 +11166,7 @@
 			)
 		)
 		(property "PACKAGEREFERENCE" "RAD-0.3"
-			(at 74.549 127.127 0)
+			(at 74.549 134.747 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11154,7 +11176,7 @@
 			)
 		)
 		(property "PUBLISHER" "Altium Limited"
-			(at 74.549 127.127 0)
+			(at 74.549 134.747 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11164,7 +11186,7 @@
 			)
 		)
 		(property "PACKAGEDESCRIPTION" "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"
-			(at 74.549 127.127 0)
+			(at 74.549 134.747 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11174,7 +11196,7 @@
 			)
 		)
 		(property "ALTIUM_VALUE" "0.1uf"
-			(at 79.121 137.541 0)
+			(at 79.121 145.161 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11266,7 +11288,7 @@
 	)
 	(symbol
 		(lib_id "controlSemaforico-altium-import:GND")
-		(at 91.44 137.16 0)
+		(at 91.44 144.78 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11274,7 +11296,7 @@
 		(dnp no)
 		(uuid "9cceb22d-6266-403b-aa54-2db54fc203a2")
 		(property "Reference" "#PWR012"
-			(at 91.44 137.16 0)
+			(at 91.44 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11283,7 +11305,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 91.44 143.51 0)
+			(at 91.44 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11291,7 +11313,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 91.44 137.16 0)
+			(at 91.44 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11300,7 +11322,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 91.44 137.16 0)
+			(at 91.44 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11309,7 +11331,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 91.44 137.16 0)
+			(at 91.44 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11532,7 +11554,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Pin")
-		(at 35.56 127 0)
+		(at 35.56 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11541,7 +11563,7 @@
 		(fields_autoplaced yes)
 		(uuid "a723b9c2-a307-4f0f-8c7f-56b6b39efd5d")
 		(property "Reference" "J7"
-			(at 36.195 121.92 0)
+			(at 36.195 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11549,7 +11571,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02_Pin"
-			(at 36.195 124.46 0)
+			(at 36.195 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11557,7 +11579,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical"
-			(at 35.56 127 0)
+			(at 35.56 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11566,7 +11588,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 35.56 127 0)
+			(at 35.56 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11575,7 +11597,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 35.56 127 0)
+			(at 35.56 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11600,7 +11622,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 116.84 154.94 0)
+		(at 116.84 162.56 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11609,7 +11631,7 @@
 		(fields_autoplaced yes)
 		(uuid "ab145c60-9460-400c-8119-03f01209e2ba")
 		(property "Reference" "#PWR021"
-			(at 116.84 158.75 0)
+			(at 116.84 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11618,7 +11640,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 116.84 150.495 0)
+			(at 116.84 158.115 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11626,7 +11648,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 116.84 154.94 0)
+			(at 116.84 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11635,7 +11657,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 116.84 154.94 0)
+			(at 116.84 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11644,7 +11666,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 116.84 154.94 0)
+			(at 116.84 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11733,7 +11755,7 @@
 	)
 	(symbol
 		(lib_id "controlSemaforico-altium-import:root_0_Volt Reg")
-		(at 83.82 162.56 0)
+		(at 83.82 170.18 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11741,7 +11763,7 @@
 		(dnp no)
 		(uuid "acedf634-abed-4f6f-bca5-813ab9c745b8")
 		(property "Reference" "VR2"
-			(at 83.82 162.56 0)
+			(at 83.82 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11750,7 +11772,7 @@
 			)
 		)
 		(property "Value" "Volt Reg"
-			(at 88.9 162.56 0)
+			(at 88.9 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11759,7 +11781,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical"
-			(at 91.44 154.94 0)
+			(at 91.44 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11768,7 +11790,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 83.82 162.56 0)
+			(at 83.82 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11777,7 +11799,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 83.82 162.56 0)
+			(at 83.82 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11786,7 +11808,7 @@
 			)
 		)
 		(property "PUBLISHED" "24-Mar-1999"
-			(at 83.82 162.56 0)
+			(at 83.82 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11796,7 +11818,7 @@
 			)
 		)
 		(property "LATESTREVISIONDATE" "29-May-2009"
-			(at 83.82 162.56 0)
+			(at 83.82 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11806,7 +11828,7 @@
 			)
 		)
 		(property "LATESTREVISIONNOTE" "IPC-7351 Footprint Added."
-			(at 83.82 162.56 0)
+			(at 83.82 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11816,7 +11838,7 @@
 			)
 		)
 		(property "PACKAGEREFERENCE" "D2PAK"
-			(at 83.82 162.56 0)
+			(at 83.82 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11826,7 +11848,7 @@
 			)
 		)
 		(property "PUBLISHER" "Altium Limited"
-			(at 83.82 162.56 0)
+			(at 83.82 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11836,7 +11858,7 @@
 			)
 		)
 		(property "PACKAGEDESCRIPTION" "3-Pin Transistor Outline Package 2.54 mm Pitch, 15.1 mm Lead Span"
-			(at 83.82 162.56 0)
+			(at 83.82 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12133,7 +12155,7 @@
 	)
 	(symbol
 		(lib_id "controlSemaforico-altium-import:root_1_Cap")
-		(at 73.025 170.815 0)
+		(at 73.025 178.435 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12141,7 +12163,7 @@
 		(dnp no)
 		(uuid "bbc0f307-ec12-47c2-95e6-9c25d14ec575")
 		(property "Reference" "C6"
-			(at 77.851 170.561 0)
+			(at 77.851 178.181 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12150,7 +12172,7 @@
 			)
 		)
 		(property "Value" "Cap"
-			(at 77.851 173.101 0)
+			(at 77.851 180.721 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12159,7 +12181,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
-			(at 80.645 166.5478 0)
+			(at 80.645 174.1678 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12168,7 +12190,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 73.025 170.815 0)
+			(at 73.025 178.435 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12177,7 +12199,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 73.025 170.815 0)
+			(at 73.025 178.435 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12186,7 +12208,7 @@
 			)
 		)
 		(property "PUBLISHED" "8-Jun-2000"
-			(at 73.279 165.227 0)
+			(at 73.279 172.847 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12196,7 +12218,7 @@
 			)
 		)
 		(property "LATESTREVISIONDATE" "17-Jul-2002"
-			(at 73.279 165.227 0)
+			(at 73.279 172.847 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12206,7 +12228,7 @@
 			)
 		)
 		(property "LATESTREVISIONNOTE" "Re-released for DXP Platform."
-			(at 73.279 165.227 0)
+			(at 73.279 172.847 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12216,7 +12238,7 @@
 			)
 		)
 		(property "PACKAGEREFERENCE" "RAD-0.3"
-			(at 73.279 165.227 0)
+			(at 73.279 172.847 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12226,7 +12248,7 @@
 			)
 		)
 		(property "PUBLISHER" "Altium Limited"
-			(at 73.279 165.227 0)
+			(at 73.279 172.847 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12236,7 +12258,7 @@
 			)
 		)
 		(property "PACKAGEDESCRIPTION" "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"
-			(at 73.279 165.227 0)
+			(at 73.279 172.847 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12246,7 +12268,7 @@
 			)
 		)
 		(property "ALTIUM_VALUE" "0.1uf"
-			(at 77.851 175.641 0)
+			(at 77.851 183.261 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12472,7 +12494,7 @@
 	)
 	(symbol
 		(lib_id "controlSemaforico-altium-import:GND")
-		(at 76.835 137.3378 0)
+		(at 76.835 144.9578 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12480,7 +12502,7 @@
 		(dnp no)
 		(uuid "c0523963-07d8-43b3-9923-b417a5147416")
 		(property "Reference" "#PWR011"
-			(at 76.835 137.3378 0)
+			(at 76.835 144.9578 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12489,7 +12511,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 76.835 143.6878 0)
+			(at 76.835 151.3078 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12497,7 +12519,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 76.835 137.3378 0)
+			(at 76.835 144.9578 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12506,7 +12528,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 76.835 137.3378 0)
+			(at 76.835 144.9578 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12515,7 +12537,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 76.835 137.3378 0)
+			(at 76.835 144.9578 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13334,7 +13356,7 @@
 	)
 	(symbol
 		(lib_id "controlSemaforico-altium-import:GND")
-		(at 68.58 172.72 0)
+		(at 68.58 180.34 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13342,7 +13364,7 @@
 		(dnp no)
 		(uuid "dc0286d6-632f-4ac9-a219-8974a8a98ee6")
 		(property "Reference" "#PWR016"
-			(at 68.58 172.72 0)
+			(at 68.58 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13351,7 +13373,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 68.58 179.07 0)
+			(at 68.58 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13359,7 +13381,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 68.58 172.72 0)
+			(at 68.58 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13368,7 +13390,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 68.58 172.72 0)
+			(at 68.58 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13377,7 +13399,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 68.58 172.72 0)
+			(at 68.58 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13667,7 +13689,7 @@
 	)
 	(symbol
 		(lib_id "controlSemaforico-altium-import:root_1_Cap")
-		(at 114.3 171.9072 0)
+		(at 114.3 179.5272 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13675,7 +13697,7 @@
 		(dnp no)
 		(uuid "eedad047-9aac-4151-862d-549a75c12f9c")
 		(property "Reference" "C8"
-			(at 119.126 171.6532 0)
+			(at 119.126 179.2732 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13684,7 +13706,7 @@
 			)
 		)
 		(property "Value" "Cap"
-			(at 119.126 174.1932 0)
+			(at 119.126 181.8132 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13693,7 +13715,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
-			(at 121.92 167.64 0)
+			(at 121.92 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13702,7 +13724,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 114.3 171.9072 0)
+			(at 114.3 179.5272 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13711,7 +13733,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 114.3 171.9072 0)
+			(at 114.3 179.5272 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13720,7 +13742,7 @@
 			)
 		)
 		(property "PUBLISHED" "8-Jun-2000"
-			(at 114.554 166.3192 0)
+			(at 114.554 173.9392 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13730,7 +13752,7 @@
 			)
 		)
 		(property "LATESTREVISIONDATE" "17-Jul-2002"
-			(at 114.554 166.3192 0)
+			(at 114.554 173.9392 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13740,7 +13762,7 @@
 			)
 		)
 		(property "LATESTREVISIONNOTE" "Re-released for DXP Platform."
-			(at 114.554 166.3192 0)
+			(at 114.554 173.9392 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13750,7 +13772,7 @@
 			)
 		)
 		(property "PACKAGEREFERENCE" "RAD-0.3"
-			(at 114.554 166.3192 0)
+			(at 114.554 173.9392 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13760,7 +13782,7 @@
 			)
 		)
 		(property "PUBLISHER" "Altium Limited"
-			(at 114.554 166.3192 0)
+			(at 114.554 173.9392 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13770,7 +13792,7 @@
 			)
 		)
 		(property "PACKAGEDESCRIPTION" "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"
-			(at 114.554 166.3192 0)
+			(at 114.554 173.9392 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13780,7 +13802,7 @@
 			)
 		)
 		(property "ALTIUM_VALUE" "0.1uf"
-			(at 119.126 176.7332 0)
+			(at 119.126 184.3532 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14200,7 +14222,7 @@
 	)
 	(symbol
 		(lib_id "controlSemaforico-altium-import:root_0_Volt Reg")
-		(at 83.82 124.46 0)
+		(at 83.82 132.08 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14208,7 +14230,7 @@
 		(dnp no)
 		(uuid "f9791536-535b-4dc7-836a-cb6e8dc086f1")
 		(property "Reference" "VR1"
-			(at 83.82 124.46 0)
+			(at 83.82 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14217,7 +14239,7 @@
 			)
 		)
 		(property "Value" "Volt Reg"
-			(at 88.9 124.46 0)
+			(at 88.9 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14226,7 +14248,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:TO-252-3_TabPin2"
-			(at 91.44 116.84 0)
+			(at 91.44 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14235,7 +14257,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 83.82 124.46 0)
+			(at 83.82 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14244,7 +14266,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 83.82 124.46 0)
+			(at 83.82 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14253,7 +14275,7 @@
 			)
 		)
 		(property "PUBLISHED" "24-Mar-1999"
-			(at 83.82 124.46 0)
+			(at 83.82 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14263,7 +14285,7 @@
 			)
 		)
 		(property "LATESTREVISIONDATE" "29-May-2009"
-			(at 83.82 124.46 0)
+			(at 83.82 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14273,7 +14295,7 @@
 			)
 		)
 		(property "LATESTREVISIONNOTE" "IPC-7351 Footprint Added."
-			(at 83.82 124.46 0)
+			(at 83.82 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14283,7 +14305,7 @@
 			)
 		)
 		(property "PACKAGEREFERENCE" "D2PAK"
-			(at 83.82 124.46 0)
+			(at 83.82 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14293,7 +14315,7 @@
 			)
 		)
 		(property "PUBLISHER" "Altium Limited"
-			(at 83.82 124.46 0)
+			(at 83.82 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14303,7 +14325,7 @@
 			)
 		)
 		(property "PACKAGEDESCRIPTION" "3-Pin Transistor Outline Package 2.54 mm Pitch, 15.1 mm Lead Span"
-			(at 83.82 124.46 0)
+			(at 83.82 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
